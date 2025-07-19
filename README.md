@@ -21,7 +21,7 @@ The application allows users to:
 
 •  random module – For generating random character combinations
 
-•  tkinter – GUI interface for user interaction (if GUI-based)
+•  tkinter – GUI interface for user interaction 
 
 •  string module – For accessing character sets
 
